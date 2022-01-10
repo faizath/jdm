@@ -106,6 +106,16 @@
     },
 
     {
+        "name": "8tracks",
+        "url": "https://8tracks.com/",
+        "difficulty": "impossible",
+        "notes": "There exists an option to delete your account in your account settings, but it's not currently functional.",
+        "domains": [
+            "8tracks.com"
+        ]
+    },
+
+    {
         "name": "99designs",
         "url": "https://support.99designs.com/hc/en-us/articles/204108919-How-do-I-delete-my-account-",
         "difficulty": "hard",
@@ -320,6 +330,17 @@
     },
 
     {
+        "name": "aiqfome",
+        "url": "https://aiqfome.com/",
+        "difficulty": "hard",
+        "notes": "Open a ticket on their chat requesting for your account to be deleted. They might reply first asking why, but will then proceed",
+        "notes_pt_br": "Faça uma solicitação no chat pedindo para que a conta seja deletada. Eles podem responder perguntando porque, mas vão então deletar",
+        "domains": [
+            "aiqfome.com"
+        ]
+    },
+
+    {
         "name": "Airbnb",
         "url": "https://www.airbnb.com/privacy/manage-your-data",
         "difficulty": "medium",
@@ -404,6 +425,17 @@
         "email": "support@airmeet.com",
         "domains": [
             "airmeet.com"
+        ]
+    },
+
+    {
+        "name": "AKAI Professional",
+        "url": "https://www.akaipro.com/privacy-policy",
+        "email": "privacy@inmusicbrands.com",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and request deletion of your personal data.",
+        "domains": [
+            "akaipro.com"
         ]
     },
 
@@ -1100,6 +1132,16 @@
         "notes_tr": "Hesabınızı silmek için, giriş yapın ve isminizin yanındaki menüye tıklayıp \"Ayarlar\" kısmına girin. Girdiğinizde, sayfanın altına kaydırın ve \"Hesabınızı Silin\" seçeneğini seçin.",
         "domains": [
             "beamly.com"
+        ]
+    },
+
+    {
+        "name": "BeamNG",
+        "url": "https://support.beamng.com/",
+        "difficulty": "hard",
+        "notes": "You need to contact support on the linked page to request account deletion.",
+        "domains": [
+            "beamng.com"
         ]
     },
 
@@ -3121,6 +3163,19 @@
     },
 
     {
+        "name": "Duo",
+        "url": "https://help.duo.com/s/article/2162",
+        "difficulty": "hard",
+        "email": "support@duosecurity.com",
+        "notes": "Delete all applications, users and other administrators in the Admin Panel according to the <a href=\"https://help.duo.com/s/article/2162\"> support article </a>, then contact support via email.",
+        "notes_pt_br": "Apague todos os aplicativos, usuários e outros administradores no Painel de Aministrador, de acordo com <a href=\"https://help.duo.com/s/article/2162\"> o artigo do suporte</a>, depois contate o suporte via e-mail.",
+        "domains": [
+            "duo.com",
+            "duosecurity.com"
+        ]
+    },
+
+    {
         "name": "Duolingo",
         "url": "https://www.duolingo.com/settings/deactivate",
         "difficulty": "easy",
@@ -3558,6 +3613,16 @@
     },
 
     {
+        "name": "Expo",
+        "url": "https://expo.dev/settings",
+        "difficulty": "easy",
+        "notes": "On the settings page, scroll down to the bottom of the page and follow the steps under 'Delete your account'.",
+        "domains": [
+            "expo.dev"
+        ]
+    },
+
+    {
         "meta": "popular",
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
@@ -3797,6 +3862,16 @@
     },
 
     {
+        "name": "FMOD",
+        "url": "https://fmod.com/profile",
+        "difficulty": "easy",
+        "notes": "On the linked page under Profile select 'To delete your account, click here'.",
+        "domains": [
+            "fmod.com"
+        ]
+    },
+
+    {
         "name": "Foap",
         "url": "https://www.foap.com/pages/contact",
         "difficulty": "hard",
@@ -3829,11 +3904,32 @@
     },
 
     {
+        "name": "FontStruct",
+        "url": "https://fontstruct.com/private/user/delete-account",
+        "difficulty": "easy",
+        "notes": "On the linked page choose the 'Delete Everything' option, confirm your password and click 'Delete Account'.",
+        "domains": [
+            "fontstruct.com"
+        ]
+    },
+
+    {
         "name": "Forvo",
         "url": "https://forvo.com/account-delete/",
         "difficulty": "easy",
         "domains": [
             "forvo.com"
+        ]
+    },
+
+    {
+        "name": "forward2me",
+        "url": "https://www.forward2me.com/terms-of-trade/",
+        "email": "info@forward2me.com",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and personal information.",
+        "domains": [
+            "forward2me.com"
         ]
     },
 
@@ -4658,6 +4754,16 @@
     },
 
     {
+        "name": "Guilded",
+        "url": "https://www.guilded.gg",
+        "difficulty": "easy",
+        "notes": "In account settings under Overview select 'Edit account', then 'Delete account', confirm your password and choose a deletion reason.",
+        "domains": [
+            "guilded.gg"
+        ]
+    },
+
+    {
         "name": "Gumroad",
         "url": "https://gumroad.com/settings",
         "difficulty": "easy",
@@ -4825,6 +4931,16 @@
         "notes_tr": "\"Hesabımı Sil\" tuşuna tıklayın ve gelen talimatları takip edin.",
         "domains": [
             "hellofax.com"
+        ]
+    },
+
+    {
+        "name": "HelloFresh",
+        "url": "https://www.hellofresh.com/contact-page/",
+        "difficulty": "hard",
+        "notes": "Click \"Chat\" and request that the agent delete your account. Your e-mail must be provided.",
+        "domains": [
+            "hellofresh.com"
         ]
     },
 
@@ -5747,6 +5863,17 @@
     },
 
     {
+        "name": "Kitsu",
+        "url": "https://kitsu.io/settings/account",
+        "difficulty": "easy",
+        "notes": "Click the 'Delete Account' button and then click 'Confirm'.",
+        "notes_es": "Haz clic en el botón 'Eliminar cuenta' y finalmente cliquea 'Confirmar'.",
+        "domains": [
+            "kitsu.io"
+        ]
+    },
+
+    {
         "name": "Klarna",
         "url": "https://www.klarna.com/us/customer-service/",
         "difficulty": "hard",
@@ -6029,6 +6156,16 @@
     },
 
     {
+        "name": "Linode",
+        "url": "https://cloud.linode.com/account/settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Close Account' and confirm your username.",
+        "domains": [
+            "linode.com"
+        ]
+    },
+
+    {
         "name": "Linsensuppe",
         "url": "https://www.linsensuppe.de",
         "difficulty": "impossible",
@@ -6125,7 +6262,7 @@
 
     {
         "name": "Lookout",
-        "url": "https://www.lookout.com/d/settings",
+        "url": "https://www.lookout.com/#/settings",
         "difficulty": "easy",
         "notes": "log into your account, in the middle right.",
         "notes_tr": "Sağ ortada, hesabınıza giriş yapın.",
@@ -7200,6 +7337,16 @@
     },
 
     {
+        "name": "MyFonts",
+        "url": "https://www.myfonts.com/my/settings/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Delete your MyFonts account' and confirm your password.",
+        "domains": [
+            "myfonts.com"
+        ]
+    },
+
+    {
         "name": "MyFRITZ!",
         "url": "https://sso.myfritz.net/account/#/delete",
         "difficulty": "easy",
@@ -7900,6 +8047,16 @@
     },
 
     {
+        "name": "Opera",
+        "url": "https://auth.opera.com/account/delete-profile",
+        "difficulty": "easy",
+        "notes": "On the linked page select 'Delete my account'.",
+        "domains": [
+            "opera.com"
+        ]
+    },
+
+    {
         "name": "Orkut",
         "url": "https://support.google.com/orkut/",
         "difficulty": "easy",
@@ -8111,6 +8268,17 @@
             "parkmobile.us",
             "parkmobile.com",
             "parkmobile.zendesk.com"
+        ]
+    },
+
+    {
+        "name": "Parsec",
+        "url": "https://parsec.app/settings/account/",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Delete Account' and confirm your username.",
+        "domains": [
+            "parsec.app",
+            "parsecgaming.com"
         ]
     },
 
@@ -8557,6 +8725,16 @@
         "email": "support@shiftyjelly.com",
         "domains": [
             "pocketcasts.com"
+        ]
+    },
+
+    {
+        "name": "Pocketbook",
+        "url": "https://getpocketbook.com/settings",
+        "difficulty": "medium",
+        "notes": "Click on 'Remove Pocketbook Account' under account settings. Select an option from dropdown and type random feedback. Click Submit button. Type CONFIRM into text box and proceed to delete account.",
+        "domains":[
+            "getpocketbook.com"
         ]
     },
 
@@ -9027,6 +9205,16 @@
     },
 
     {
+        "name": "Read the Docs",
+        "url": "https://readthedocs.org/accounts/delete/",
+        "difficulty": "easy",
+        "notes": "On the linked page confirm your username and select 'Delete Account'.",
+        "domains": [
+            "readthedocs.org"
+        ]
+    },
+
+    {
         "name": "Readernaut",
         "url": "https://readernaut.com",
         "difficulty": "easy",
@@ -9187,6 +9375,17 @@
     },
 
     {
+        "name": "Replit",
+        "url": "https://replit.com/account",
+        "difficulty": "easy",
+        "notes": "On the linked page under Account select 'Request account deletion'.",
+        "domains": [
+            "replit.com",
+            "repl.it"
+        ]
+    },
+
+    {
         "name": "RescueTime",
         "url": "https://www.rescuetime.com/settings",
         "difficulty": "easy",
@@ -9198,6 +9397,16 @@
     },
 
     {
+        "name": "Reservio",
+        "url": "https://app.reservio.com/#/business/settings",
+        "difficulty": "medium",
+        "notes": "Go to the <b>Business</b> tab → <b>Settings</b>. You will find the option for the deletion of your account at the bottom of this page.",
+        "domains": [
+            "reservio.com"
+        ]
+    },
+
+    {
         "name": "Retrospring",
         "url": "https://retrospring.net/settings/account",
         "difficulty": "easy",
@@ -9205,6 +9414,18 @@
         "notes_tr": "Sayfanın altındaki \"Sil\" tuşuna tıklayın.",
         "domains": [
             "retrospring.net"
+        ]
+    },
+
+    {
+        "name": "Revolt",
+        "url": "https://revolt.chat",
+        "email": "contact@revolt.chat",
+        "email_subject": "Delete my account",
+        "difficulty": "hard",
+        "notes": "You need to send an email to support to delete your account and data.",
+        "domains": [
+            "revolt.chat"
         ]
     },
 
@@ -9895,6 +10116,16 @@
     },
 
     {
+        "name": "Smule",
+        "url": "https://smule.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a ticket, select 'Remove Smule Profile', fill in the necessary details and tick the boxes. Make sure to remove subscriptions from the required services too.",
+        "notes_es": "Crea un nuevo ticket, elige 'Remover perfil Smule', marca las casillas necesarios y rellena los datos que te piden. No olvides remover la subscripcion que tengas en otros servicios.",
+        "domains": [
+            "smule.com"
+        ]
+    },
+    {
         "name": "Snapchat",
         "url": "https://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
@@ -10021,6 +10252,16 @@
     },
 
     {
+        "name": "SpaceHey",
+        "url": "https://spacehey.com/deleteaccount",
+        "difficulty": "easy",
+        "notes": "On the linked page select 'Delete this Account'.",
+        "domains": [
+            "spacehey.com"
+        ]
+    },
+
+    {
         "name": "Speaker Deck",
         "url": "https://speakerdeck.com/account",
         "difficulty": "easy",
@@ -10028,6 +10269,16 @@
         "notes_tr": "Sayfanın altına doğru kaydırın ve \"Hesabımı Sil\" tuşuna tıklayın.",
         "domains": [
             "speakerdeck.com"
+        ]
+    },
+
+    {
+        "name": "speedrun.com",
+        "url": "https://www.speedrun.com/settings",
+        "difficulty": "easy",
+        "notes": "On the linked page open the Delete tab, confirm your password, check 'Delete all runs' and 'Delete all forum posts', and select 'Delete account'.",
+        "domains": [
+            "speedrun.com"
         ]
     },
 
@@ -10097,6 +10348,15 @@
     },
 
     {
+        "name": "Squarespace",
+        "url": "https://account.squarespace.com/settings/security/delete-account",
+        "difficulty": "easy",
+        "domains": [
+            "squarespace.com"
+        ]
+    },
+
+    {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
         "difficulty": "hard",
@@ -10109,6 +10369,15 @@
         "notes_es": "Si nunca has publicado en el sitio sólo es un clic. Si no, edita tu biografía en 'About Me' y escribe 'please delete me', luego contacta con atención al cliente.",
         "domains": [
             "stackoverflow.com"
+        ]
+    },
+
+    {
+        "name": "Standard Notes",
+        "url": "https://standardnotes.com/reset",
+        "difficulty": "easy",
+        "domains": [
+            "standardnotes.com"
         ]
     },
 
@@ -10596,6 +10865,17 @@
     },
 
     {
+        "name": "Teespring",
+        "url": "https://teespring.com/",
+        "email": "privacy@spri.ng",
+        "difficulty": "impossible",
+        "notes": "'It's currently unknown if they allow account deletions, but you can try emailing and asking. Do share their response with us on GitHub!",
+        "domains": [
+            "teespring.com"
+        ]
+    },
+
+    {
         "name": "Telegram",
         "url": "https://telegram.org/deactivate",
         "difficulty": "easy",
@@ -10723,7 +11003,16 @@
             "ticketmaster.com"
         ]
     },
-
+    {
+        "name": "TickTick",
+        "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
+        "difficulty": "easy",
+        "notes": "Follow the instructions from this link.",
+        "notes_es": "Sigue las instrucciones del enlace",
+        "domains": [
+            "ticktick.com"
+        ]
+    },
     {
         "name": "Tidal",
         "url": "https://support.tidal.com/hc/en-us/requests/new",
@@ -10762,7 +11051,7 @@
 
     {
         "name": "Todoist",
-        "url": "https://www.todoist.com/settings",
+        "url": "https://todoist.com/app/settings/account",
         "difficulty": "easy",
         "notes": "At the bottom of the page is a delete account buttom, after clicking on it, you will need to re-enter your password.",
         "notes_tr": "Sayfanın altında bir \"Hesabı Sil\" düğmesi vardır, tıkladıktan sonra şifrenizi yeniden girmeniz gerekecektir.",
@@ -11500,6 +11789,18 @@
         "notes_es": "La única manera de borrar tu cuenta de Vine sin borrar la cuenta de Twitter es contactar con Twitter vía su formulario de contacto.",
         "domains": [
             "vine.co"
+        ]
+    },
+
+    {
+        "name": "VIP Select",
+        "url": "https://www.vipselect.com.br/",
+        "email": "vipselect.rapido@gmail.com",
+        "difficulty": "hard",
+        "notes": "According to them, uninstalling the app and not accessing it for 30 days leads to the automatic deletion of the account. If you don't want to wait, you can e-mail.",
+        "notes_pt_br": "Segundo eles, apenas desinstalar o aplicativo e ficar 30 dias sem utilizá-lo leva à remoção automática da conta. Se não quiser esperar, pode enviar um e-mail.",
+        "domains": [
+            "vipselect.com.br"
         ]
     },
 
